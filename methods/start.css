@@ -1,2 +1,5 @@
 /* style             */ 
 /* for the beginning */
+* { font-family: "courier", serif, monospace; 
+  color: #FFFFFF; }
+body { background-color: #000000; }
